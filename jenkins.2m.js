@@ -1,5 +1,12 @@
 #!/usr/bin/env /usr/local/bin/node
 
+// <bitbar.title>Jenkins plugin</bitbar.title>
+// <bitbar.version>v1.0</bitbar.version>
+// <bitbar.author>Wizbii</bitbar.author>
+// <bitbar.author.github>wizbii</bitbar.author.github>
+// <bitbar.desc>A simple JS plugin for BitBar to keep track of your Jenkins jobs' status</bitbar.desc>
+// <bitbar.dependencies>node</bitbar.dependencies>
+
 'use strict';
 
 const fetch = require('node-fetch');
