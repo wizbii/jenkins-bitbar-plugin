@@ -8,4 +8,4 @@ npm install node-fetch q
 ```
 And you're done !
 
-If you want to change the refresh interval, you can do it just from the file extension (see BitBar's doc for more information)
+If you want to change the refresh interval, you can do it just from the file extension (see [BitBar's doc](https://github.com/matryer/bitbar#configure-the-refresh-time) for more information)
